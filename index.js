@@ -17,3 +17,9 @@ function ternaryCheckCity(city){
   // }
   return (city === "NYC") ? "Ok, sounds good." : "No go."
 }
+
+function switchOnCharmFromTip(tipString){
+  if tipString === "generous" // "Thank you so much"
+  if tipString === "not as generous" // "Thank you"
+  if tipString === "thanks for everything" // 'Bye.'
+}
