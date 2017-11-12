@@ -26,6 +26,4 @@ function switchOnCharmFromTip(tipString){
   } else if (tipString === "thanks for everything"){
     return "Bye."
   }
-  if tipString ===  // "Thank you."
-  if  // 'Bye.'
 }
