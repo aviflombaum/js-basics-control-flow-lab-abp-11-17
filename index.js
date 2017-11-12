@@ -8,7 +8,3 @@ function scuberGreetingForFeet(distance){
     return 'No can do.'
   }
 }
-
-true && false
-
-false && true
